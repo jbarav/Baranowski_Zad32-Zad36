@@ -1,0 +1,8 @@
+ /*Jan Baranowski 3K g1*/
+h3 {  
+       width: 400pt; 
+        height: 4cm;  
+		margin-left     : 6%; 
+        border     : 10px solid maroon; 
+        background : rgb(205, 24, 24);
+    } 
